@@ -12,3 +12,6 @@ maintainers:
 sources:
   - https://github.com/weaveworks/kured
 icon: https://raw.githubusercontent.com/weaveworks/kured/main/img/logo.png
+annotations:
+  catalog.cattle.io/release-name: kured
+  catalog.cattle.io/namespace: kured
